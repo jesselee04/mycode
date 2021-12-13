@@ -27,4 +27,12 @@ protoa.append(proto2)
 #print updated protoa list
 print(protoa)
 
+#test insert
+proto.insert(0,"insert1")
 
+print(proto)
+
+#test2
+proto.insert(3,"insert2")
+
+print(proto)
